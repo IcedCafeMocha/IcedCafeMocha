@@ -2,6 +2,10 @@
   <img src="https://github.com/IcedCafeMocha/IcedCafeMocha/assets/162860613/20583835-b28f-4107-9526-f6a24a56dbf9"/>
 </div>
 
+<br>
+<br>
+<br>
+
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>&nbsp
@@ -20,6 +24,8 @@
 </div>
 
 <br>
+<br>
+<br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
@@ -35,6 +41,8 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white" />&nbsp
 </div>
 
+<br>
+<br>
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
