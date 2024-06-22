@@ -1,3 +1,5 @@
+![welcome](https://github.com/IcedCafeMocha/IcedCafeMocha/assets/162860613/770e92c3-821d-4472-aee9-af170938bd84)
+
 ## Hi there 👋
 
 <!--
