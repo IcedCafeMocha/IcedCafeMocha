@@ -52,3 +52,9 @@
       src="https://img.shields.io/badge/1116cafemocha@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+<br>
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IcedCafeMocha)](https://github.com/anuraghazra/github-readme-stats)
