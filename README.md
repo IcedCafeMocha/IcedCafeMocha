@@ -1,4 +1,6 @@
-![Welcome2](https://github.com/IcedCafeMocha/IcedCafeMocha/assets/162860613/f7ac05ec-4d86-43aa-b898-61cc46e1b979)
+<div align="center">
+  <img src="https://github.com/IcedCafeMocha/IcedCafeMocha/assets/162860613/f7ac05ec-4d86-43aa-b898-61cc46e1b979"/>
+</div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
