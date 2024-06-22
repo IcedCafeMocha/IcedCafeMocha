@@ -56,8 +56,19 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IcedCafeMocha&show_icons=true&theme=radical)
-</div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IcedCafeMocha)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcedCafeMocha&layout=compact">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IcedCafeMocha&show_icons=true&theme=graywhite">
+</p>
+
+
