@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/IcedCafeMocha/IcedCafeMocha/assets/162860613/f7ac05ec-4d86-43aa-b898-61cc46e1b979"/>
+  <img src="https://github.com/IcedCafeMocha/IcedCafeMocha/assets/162860613/20583835-b28f-4107-9526-f6a24a56dbf9"/>
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
